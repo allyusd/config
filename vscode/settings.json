@@ -1,0 +1,11 @@
+{
+  "files.autoSave": "afterDelay",
+  "editor.fontFamily": "Anonymous Pro",
+  "terminal.integrated.fontFamily": "monospace",
+  "editor.fontSize": 16,
+  "editor.tabSize": 2,
+  // disable preview from quick open(ctrl + p)
+  "workbench.editor.enablePreviewFromQuickOpen": false,
+  // quick select css name with "-", like: label-box
+  "editor.wordSeparators": "`~!@#$%^&*()=+[{]}\\|;:'\",.<>/?",
+}
